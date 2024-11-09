@@ -3,7 +3,7 @@
 title: "Analysis of the 2019 Cerro Chovoreca Fire in Paraguay"
 author: "Gisela Noguera Toffoletti"
 date: "`r Sys.Date()`"
-output: html_document
+output: github_document
 ---
 
 ## Abstract
